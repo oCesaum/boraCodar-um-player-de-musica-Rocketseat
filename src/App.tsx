@@ -1,10 +1,10 @@
 import './App.css'
 
-import Image189 from "./assets/image-189.66.png"
-import Image84 from "./assets/image-84.03.png"
-import PlayBack from "./assets/play-back.svg"
-import Play from "./assets/play.svg"
-import PlayForward from "./assets/play-forward.svg"
+import Image189 from "/assets/image-189.66.png"
+import Image84 from "/assets/image-84.03.png"
+import PlayBack from "/assets/play-back.svg"
+import Play from "/assets/play.svg"
+import PlayForward from "/assets/play-forward.svg"
 
 function App() {
   return (
