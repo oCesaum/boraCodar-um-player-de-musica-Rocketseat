@@ -7,7 +7,7 @@ function App() {
         <div className="left-container">
           <img
             className="left-container-music-img"
-            src="/image/image-189.66.png"
+            src="images/image-189.66.png"
             alt="Music image"
           />
           <div className="music-info-container">
@@ -15,9 +15,9 @@ function App() {
             <p>Banda Rocketseat</p>
           </div>
           <div className="left-play-settings">
-            <img src="/image/play-back.svg" alt="Play back button" />
-            <img src="/image/play.svg" alt="Play button" />
-            <img src="/image/play-forward.svg" alt="Play forward button" />
+            <img src="/images/play-back.svg" alt="Play back button" />
+            <img src="/images/play.svg" alt="Play button" />
+            <img src="/images/play-forward.svg" alt="Play forward button" />
           </div>
           <div className="left-play-details">
             <div className="playbar-container">
@@ -34,21 +34,21 @@ function App() {
         <div className="right-container">
           <div className="right-top-container">
             <div className="music-details-container">
-              <img src="/image/image-84.03.png" alt="Music image" />
+              <img src="/images/image-84.03.png" alt="Music image" />
               <div className="music-info-container">
                 <h1>Acorda Devinho</h1>
                 <p>Banda Rocketseat</p>
               </div>
             </div>
             <div className="right-play-settings">
-              <img src="/image/play-back.svg" alt="Play back button" />
+              <img src="/images/play-back.svg" alt="Play back button" />
               <img
                 className="right-top-play-button"
-                src="/image/play.svg"
+                src="/images/play.svg"
                 alt="Play button"
               />
               <img
-                src="/image/play-forward.svg"
+                src="/images/play-forward.svg"
                 alt="Play forward button"
               />
             </div>
@@ -66,21 +66,21 @@ function App() {
 
           <div className="right-bottom-container">
             <div className="music-details-container">
-              <img src="/image/image-84.03.png" alt="Music image" />
+              <img src="/images/image-84.03.png" alt="Music image" />
               <div className="music-info-container">
                 <h1>Acorda Devinho</h1>
                 <p>Banda Rocketseat</p>
               </div>
             </div>
             <div className="right-play-settings">
-              <img src="/image/play-back.svg" alt="Play back button" />
+              <img src="/images/play-back.svg" alt="Play back button" />
               <img
                 className="right-top-play-button"
-                src="/image/play.svg"
+                src="/images/play.svg"
                 alt="Play button"
               />
               <img
-                src="/image/play-forward.svg"
+                src="/images/play-forward.svg"
                 alt="Play forward button"
               />
             </div>
