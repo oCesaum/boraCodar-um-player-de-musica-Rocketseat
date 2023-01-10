@@ -40,7 +40,7 @@ function App() {
         <div className="right-container">
           <div className="right-top-container">
             <div className="music-details-container">
-              <img src="/public/image-84.03.png" alt="Music image" />
+              <img src={Image84} alt="Music image" />
               <div className="music-info-container">
                 <h1>Acorda Devinho</h1>
                 <p>Banda Rocketseat</p>
